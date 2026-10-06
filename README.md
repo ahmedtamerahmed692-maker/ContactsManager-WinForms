@@ -111,8 +111,8 @@ The contacts table is loaded once into a `DataTable`. Typing in the search box a
 
 ## 📸 Screenshots
 
-![Main form](screenshots/main.png)
-![Add / Edit form](screenshots/edit.png)
+   ![Main form](screenshots/Main.png)
+   ![Add / Edit form](screenshots/edit.png)
 
 ---
 
